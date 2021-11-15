@@ -4,7 +4,7 @@ C++ template madness
 
 ## Description
 
-C++ has a metaprogramming feature called templates. For this challenge, we want you to use C++ templates in a _creative_ way. Build a programming language. Write a neat data-structure. Maybe even write a game? C++ template metaprogramming are Turing complete. The sky is the limit.
+C++ has a metaprogramming feature called templates. For this challenge, we want you to use C++ templates in a _creative_ way. Build a programming language. Write a neat data-structure. Maybe even write a game? C++ template metaprogramming is Turing complete. The sky is the limit.
 
 Here are some resources to get you started:
 - [C++ Templates](https://en.cppreference.com/w/cpp/language/templates)
