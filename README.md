@@ -15,7 +15,7 @@ Here are some resources to get you started:
 - [Practical Makefiles](http://nuclear.mutantstargoat.com/articles/make/?utm_source=pocket_mylist)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 
-**Do not submit source code from an existing. You will be disqualified.**
+**Do not submit source code from an existing project. You will be disqualified.**
 
 The winner will be determined by the HexCommons team.
 
