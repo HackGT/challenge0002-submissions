@@ -10,7 +10,7 @@ Here are some resources to get you started:
 - [C++ Templates](https://en.cppreference.com/w/cpp/language/templates)
 - [C++ Templates are Turing Complete](https://rtraba.files.wordpress.com/2015/05/cppturing.pdf)
 - [Fibonacci numbers using C++ Templates](https://gist.github.com/toch/7ed3a1786d0ed464fd94)	
-- [Curiously Recurring Template Pattern](https://dev.to/poulamic/intro-to-creating-css-art-1ep5)
+- [Curiously Recurring Template Pattern](https://en.cppreference.com/w/cpp/language/crtp)
 - [Enum reflection with C++ Templates](https://taylorconor.com/blog/enum-reflection/)
 - [Practical Makefiles](http://nuclear.mutantstargoat.com/articles/make/?utm_source=pocket_mylist)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
