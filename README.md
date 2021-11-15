@@ -36,7 +36,7 @@ You have to submit the following files:
 1. Fork this repository
 2. Clone your fork
 ```
-git clone https://github.com/<your-github-username>/challenge0001-submissions.git
+git clone https://github.com/<your-github-username>/challenge0002-submissions.git
 cd challenge0002-submissions
 ```
 3. Create a new directory with a unique name of your choosing
