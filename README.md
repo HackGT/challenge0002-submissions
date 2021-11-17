@@ -46,3 +46,7 @@ mkdir fancy-name-that-is-family-friendly
 4. Copy your code into this directory and make a PR!
 
 If you are unfamilar with forking or making pull requests, take a look at https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
+
+## Interested in more challenges?
+
+We announce our challenges on our community Discord. [Join here](https://discord.com/invite/gBy4DSEZ65)!
