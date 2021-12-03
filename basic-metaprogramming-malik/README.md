@@ -4,9 +4,20 @@
 [C++ template madness](https://github.com/HackGT/challenge0002-submissions/ ) challenge submission
 
 # Description
+Implemented the meta programs to determine the architecture (x86 or x64) of the computer, If-Else conditions using templates, For loop with range, and finally Matrix addition, subtraction, and addition using metaprogramming with operator overloading. It took some time to figure out matrix multiplication using templates with overloading operators.
 
-# Simulation
 
+
+# Compiling and Running
+To run the code clone this repository and run the following commands:
+```bash
+cd basic-metaprogramming-malik/
+make
+./main
+```
+
+# Requirements
+G++ >= 9
 
 # Author
 
